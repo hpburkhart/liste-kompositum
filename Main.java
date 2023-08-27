@@ -6,6 +6,7 @@ class Main {
         Patient patb = new Patient("Berta");
         Patient patc = new Patient("Carlos");
         Patient patd = new Patient("Doris");
+        Patient pate = new Patient("Eric") ;
         // System.out.println(pata.informationGet());
         // pata.nachfolgerSet(patb);
         // System.out.println(pata.nachfolgerGet());
